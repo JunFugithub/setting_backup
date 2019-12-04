@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/junfu/Documents/inferenceAtScale/docker-python/.git'
+let g:netrw_dirhist_2='/Users/junfu/Documents/inferenceAtScale/docker-python/test_entry'
+let g:netrw_dirhist_3='/Users/junfu/Documents/gitlab/ci-k8s-tools'
